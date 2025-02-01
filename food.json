@@ -1,0 +1,802 @@
+[
+    {
+        "hashtag_id": "DJxnr6",
+        "hashtag_name": "foodtok",
+        "publish_cnt": 90000,
+        "rank": 1,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "m8Ajmn",
+        "hashtag_name": "foodies",
+        "publish_cnt": 51000,
+        "rank": 2,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "jm3nLb",
+        "hashtag_name": "matcha",
+        "publish_cnt": 35000,
+        "rank": 3,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "Q35ZC8",
+        "hashtag_name": "starbucks",
+        "publish_cnt": 23000,
+        "rank": 4,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "WNcNEK",
+        "hashtag_name": "energydrink",
+        "publish_cnt": 102000,
+        "rank": 5,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "yCAt9m",
+        "hashtag_name": "mexicantiktok",
+        "publish_cnt": 24000,
+        "rank": 6,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "lSUP6K",
+        "hashtag_name": "healthyfood",
+        "publish_cnt": 26000,
+        "rank": 7,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "s381iY",
+        "hashtag_name": "mealprep",
+        "publish_cnt": 22000,
+        "rank": 8,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "DuwoHz",
+        "hashtag_name": "healthyrecipes",
+        "publish_cnt": 22000,
+        "rank": 9,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "X1t9WJ",
+        "hashtag_name": "yummyfood",
+        "publish_cnt": 22000,
+        "rank": 10,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "DQ1ORc",
+        "hashtag_name": "strawberry",
+        "publish_cnt": 18000,
+        "rank": 11,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "wxAUyx",
+        "hashtag_name": "highprotein",
+        "publish_cnt": 15000,
+        "rank": 12,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "dcYo4h",
+        "hashtag_name": "sourdough",
+        "publish_cnt": 24000,
+        "rank": 13,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "E2PuOi",
+        "hashtag_name": "coffeetime",
+        "publish_cnt": 22000,
+        "rank": 14,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "dyXtMF",
+        "hashtag_name": "coffeelover",
+        "publish_cnt": 22000,
+        "rank": 15,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bDfODj",
+        "hashtag_name": "cookie",
+        "publish_cnt": 16000,
+        "rank": 16,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "qTwfSa",
+        "hashtag_name": "steak",
+        "publish_cnt": 14000,
+        "rank": 17,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "PTEEiz",
+        "hashtag_name": "birthdaycake",
+        "publish_cnt": 21000,
+        "rank": 18,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "acQB9M",
+        "hashtag_name": "healthyeating",
+        "publish_cnt": 16000,
+        "rank": 19,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "NbXR3i",
+        "hashtag_name": "eggs",
+        "publish_cnt": 13000,
+        "rank": 20,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "cz7EpI",
+        "hashtag_name": "cookingtiktok",
+        "publish_cnt": 13000,
+        "rank": 21,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "w3EU6X",
+        "hashtag_name": "foodlovers",
+        "publish_cnt": 14000,
+        "rank": 22,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "2V9LEn",
+        "hashtag_name": "homemadefood",
+        "publish_cnt": 11000,
+        "rank": 23,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "vQxOqj",
+        "hashtag_name": "cleaneating",
+        "publish_cnt": 9000,
+        "rank": 24,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GJCsXL",
+        "hashtag_name": "foodlover",
+        "publish_cnt": 68000,
+        "rank": 25,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "1enOl6",
+        "hashtag_name": "kitchenhacks",
+        "publish_cnt": 10000,
+        "rank": 26,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "UxGSaw",
+        "hashtag_name": "sourdoughbread",
+        "publish_cnt": 12000,
+        "rank": 27,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "63a7Oa",
+        "hashtag_name": "sourdoughstarter",
+        "publish_cnt": 11000,
+        "rank": 28,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "NGStCb",
+        "hashtag_name": "novelshortclips",
+        "publish_cnt": 32000,
+        "rank": 29,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "JYlk2b",
+        "hashtag_name": "matchalover",
+        "publish_cnt": 10000,
+        "rank": 30,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "iSNVBg",
+        "hashtag_name": "mealideas",
+        "publish_cnt": 7000,
+        "rank": 31,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "3IMKXP",
+        "hashtag_name": "cookingathometiktoktv",
+        "publish_cnt": 10000,
+        "rank": 32,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "t9kBj8",
+        "hashtag_name": "wholefoods",
+        "publish_cnt": 6000,
+        "rank": 33,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8bKAh1",
+        "hashtag_name": "popeyes",
+        "publish_cnt": 3000,
+        "rank": 34,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "iw31jE",
+        "hashtag_name": "groceryhaul",
+        "publish_cnt": 8000,
+        "rank": 35,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "gEkwzW",
+        "hashtag_name": "starbucksdrinks",
+        "publish_cnt": 6000,
+        "rank": 36,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "CDCfoi",
+        "hashtag_name": "shrimp",
+        "publish_cnt": 6000,
+        "rank": 37,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bjGdWb",
+        "hashtag_name": "wingstop",
+        "publish_cnt": 3000,
+        "rank": 38,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "0lvSUJ",
+        "hashtag_name": "kuliner",
+        "publish_cnt": 34000,
+        "rank": 39,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "aFytTe",
+        "hashtag_name": "sourdoughtok",
+        "publish_cnt": 7000,
+        "rank": 40,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "sCvU0c",
+        "hashtag_name": "highproteinmeals",
+        "publish_cnt": 4000,
+        "rank": 41,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "kicrRg",
+        "hashtag_name": "buldak",
+        "publish_cnt": 4000,
+        "rank": 42,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "U3NuYr",
+        "hashtag_name": "groceries",
+        "publish_cnt": 5000,
+        "rank": 43,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "qxRZA0",
+        "hashtag_name": "proteinshake",
+        "publish_cnt": 6000,
+        "rank": 44,
+        "rank_diff": 11,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "9xpJEL",
+        "hashtag_name": "monsterenergy",
+        "publish_cnt": 5000,
+        "rank": 45,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "r4xerE",
+        "hashtag_name": "morningcoffee",
+        "publish_cnt": 6000,
+        "rank": 46,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "2wM5sl",
+        "hashtag_name": "lowcalorie",
+        "publish_cnt": 4000,
+        "rank": 47,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "eIlHEH",
+        "hashtag_name": "makananviral",
+        "publish_cnt": 29000,
+        "rank": 48,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "NZho7r",
+        "hashtag_name": "bakingtiktok",
+        "publish_cnt": 5000,
+        "rank": 49,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "rV2O1X",
+        "hashtag_name": "dryjanuary",
+        "publish_cnt": 5000,
+        "rank": 50,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Ofvn0V",
+        "hashtag_name": "kulinertiktok",
+        "publish_cnt": 24000,
+        "rank": 51,
+        "rank_diff": 4,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "qLSQJk",
+        "hashtag_name": "costcofinds",
+        "publish_cnt": 3000,
+        "rank": 52,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pK2yFF",
+        "hashtag_name": "nespresso",
+        "publish_cnt": 4000,
+        "rank": 53,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "QLGwmU",
+        "hashtag_name": "seafoodboil",
+        "publish_cnt": 3000,
+        "rank": 54,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "lFscs1",
+        "hashtag_name": "whiskey",
+        "publish_cnt": 5000,
+        "rank": 55,
+        "rank_diff": 15,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "PIwLg6",
+        "hashtag_name": "alani",
+        "publish_cnt": 4000,
+        "rank": 56,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "F2LhZk",
+        "hashtag_name": "breadtok",
+        "publish_cnt": 5000,
+        "rank": 57,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "U7VP8m",
+        "hashtag_name": "healthymeals",
+        "publish_cnt": 3000,
+        "rank": 58,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8p0nD7",
+        "hashtag_name": "receita",
+        "publish_cnt": 16000,
+        "rank": 59,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "dvAuV7",
+        "hashtag_name": "sogood",
+        "publish_cnt": 4000,
+        "rank": 60,
+        "rank_diff": 9,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "mTlE7R",
+        "hashtag_name": "lobster",
+        "publish_cnt": 3000,
+        "rank": 61,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "A8zw1x",
+        "hashtag_name": "mealprepideas",
+        "publish_cnt": 3000,
+        "rank": 62,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "gJop4t",
+        "hashtag_name": "coffeeathome",
+        "publish_cnt": 4000,
+        "rank": 63,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pzB31Z",
+        "hashtag_name": "peanutbutter",
+        "publish_cnt": 3000,
+        "rank": 64,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ZwYn9G",
+        "hashtag_name": "chocolatecoveredstrawberries",
+        "publish_cnt": 4000,
+        "rank": 65,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "283UOb",
+        "hashtag_name": "strawberries",
+        "publish_cnt": 4000,
+        "rank": 66,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8FZzbY",
+        "hashtag_name": "jajanantiktok",
+        "publish_cnt": 21000,
+        "rank": 67,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "uMdJlC",
+        "hashtag_name": "buldakramen",
+        "publish_cnt": 2000,
+        "rank": 68,
+        "rank_diff": 5,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "LolaFq",
+        "hashtag_name": "dutchbros",
+        "publish_cnt": 2000,
+        "rank": 69,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GgcAME",
+        "hashtag_name": "ramen",
+        "publish_cnt": 13000,
+        "rank": 70,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "2XXNTv",
+        "hashtag_name": "matchatok",
+        "publish_cnt": 3000,
+        "rank": 71,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "RgUrOj",
+        "hashtag_name": "cemilan",
+        "publish_cnt": 21000,
+        "rank": 72,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "PNTfw2",
+        "hashtag_name": "veggies",
+        "publish_cnt": 3000,
+        "rank": 73,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Ug2bJz",
+        "hashtag_name": "receitas",
+        "publish_cnt": 10000,
+        "rank": 74,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "oP8Pni",
+        "hashtag_name": "proteinbar",
+        "publish_cnt": 2000,
+        "rank": 75,
+        "rank_diff": 9,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Qnn5ZG",
+        "hashtag_name": "cozinha",
+        "publish_cnt": 14000,
+        "rank": 76,
+        "rank_diff": 7,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "0YM6AB",
+        "hashtag_name": "heartcake",
+        "publish_cnt": 3000,
+        "rank": 77,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "bndYdW",
+        "hashtag_name": "pizzalover",
+        "publish_cnt": 12000,
+        "rank": 78,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "pEM6HO",
+        "hashtag_name": "alaninu",
+        "publish_cnt": 3000,
+        "rank": 79,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "JAfnV2",
+        "hashtag_name": "durian",
+        "publish_cnt": 13000,
+        "rank": 80,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "7QjQ1s",
+        "hashtag_name": "kurma",
+        "publish_cnt": 23000,
+        "rank": 81,
+        "rank_diff": 7,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "iWCkSD",
+        "hashtag_name": "torontotiktok",
+        "publish_cnt": 3000,
+        "rank": 82,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GP0qgT",
+        "hashtag_name": "homemadebread",
+        "publish_cnt": 2000,
+        "rank": 83,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "XeH08o",
+        "hashtag_name": "\u0441\u043e\u0441\u0435\u0434\u0438",
+        "publish_cnt": 3000,
+        "rank": 84,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "OHqt00",
+        "hashtag_name": "\u0441\u0442\u043e\u0440\u0438\u0441",
+        "publish_cnt": 3000,
+        "rank": 85,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8V7YXQ",
+        "hashtag_name": "electrolytes",
+        "publish_cnt": 3000,
+        "rank": 86,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Tbzl1g",
+        "hashtag_name": "seblak",
+        "publish_cnt": 11000,
+        "rank": 87,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ysjRhn",
+        "hashtag_name": "novabeats",
+        "publish_cnt": 12000,
+        "rank": 88,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "kzr5xw",
+        "hashtag_name": "\u0441\u043e\u0441\u0435\u0434",
+        "publish_cnt": 3000,
+        "rank": 89,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "2wp0Gt",
+        "hashtag_name": "sourdoughforbeginners",
+        "publish_cnt": 2000,
+        "rank": 90,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "RQl6Xi",
+        "hashtag_name": "cemilanviral",
+        "publish_cnt": 15000,
+        "rank": 91,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "tXaHDh",
+        "hashtag_name": "grocerystore",
+        "publish_cnt": 2000,
+        "rank": 92,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "pAcRt9",
+        "hashtag_name": "comidasaludable",
+        "publish_cnt": 8000,
+        "rank": 93,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "7rQ6hX",
+        "hashtag_name": "\u0440\u0435\u0446\u0435\u043f\u0442\u044b",
+        "publish_cnt": 7000,
+        "rank": 94,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "57m1Ll",
+        "hashtag_name": "iceball",
+        "publish_cnt": 3000,
+        "rank": 95,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "HABNwY",
+        "hashtag_name": "candytok",
+        "publish_cnt": 1000,
+        "rank": 96,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "6cWKuE",
+        "hashtag_name": "enak",
+        "publish_cnt": 10000,
+        "rank": 97,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "gJJWgj",
+        "hashtag_name": "coffeerecipe",
+        "publish_cnt": 2000,
+        "rank": 98,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "kMJpUu",
+        "hashtag_name": "sourdoughbaking",
+        "publish_cnt": 2000,
+        "rank": 99,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "ijlRvI",
+        "hashtag_name": "icetray",
+        "publish_cnt": 3000,
+        "rank": 100,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    }
+]
