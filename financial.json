@@ -1,0 +1,802 @@
+[
+    {
+        "hashtag_id": "zebr3v",
+        "hashtag_name": "trading",
+        "publish_cnt": 144000,
+        "rank": 1,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "XYml5e",
+        "hashtag_name": "crypto",
+        "publish_cnt": 145000,
+        "rank": 2,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "ZO1hxN",
+        "hashtag_name": "entrepreneur",
+        "publish_cnt": 95000,
+        "rank": 3,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "UjvyEh",
+        "hashtag_name": "onlinebusiness",
+        "publish_cnt": 96000,
+        "rank": 4,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "4QKPZo",
+        "hashtag_name": "bitcoin",
+        "publish_cnt": 89000,
+        "rank": 5,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "sGk2ar",
+        "hashtag_name": "businessowner",
+        "publish_cnt": 47000,
+        "rank": 6,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "BWsUDm",
+        "hashtag_name": "moneytalks",
+        "publish_cnt": 27000,
+        "rank": 7,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "D4Ocfl",
+        "hashtag_name": "ecommerce",
+        "publish_cnt": 35000,
+        "rank": 8,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "70Xut5",
+        "hashtag_name": "cryptocurrency",
+        "publish_cnt": 48000,
+        "rank": 9,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "nsJG7p",
+        "hashtag_name": "btc",
+        "publish_cnt": 43000,
+        "rank": 10,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "cMaJ1X",
+        "hashtag_name": "xrp",
+        "publish_cnt": 41000,
+        "rank": 11,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "lnPOef",
+        "hashtag_name": "dropshipping",
+        "publish_cnt": 22000,
+        "rank": 12,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "oMhJ2n",
+        "hashtag_name": "memecoin",
+        "publish_cnt": 24000,
+        "rank": 13,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "XnNALa",
+        "hashtag_name": "stocks",
+        "publish_cnt": 22000,
+        "rank": 14,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "s9jVOP",
+        "hashtag_name": "moneytok",
+        "publish_cnt": 16000,
+        "rank": 15,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "2RxG8w",
+        "hashtag_name": "solana",
+        "publish_cnt": 29000,
+        "rank": 16,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "xe477b",
+        "hashtag_name": "millionairemindset",
+        "publish_cnt": 16000,
+        "rank": 17,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bLzZBl",
+        "hashtag_name": "stockmarket",
+        "publish_cnt": 19000,
+        "rank": 18,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "PjpvKM",
+        "hashtag_name": "moneytips",
+        "publish_cnt": 12000,
+        "rank": 19,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "yz0BX1",
+        "hashtag_name": "cryptotrading",
+        "publish_cnt": 25000,
+        "rank": 20,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "GShxZB",
+        "hashtag_name": "taxes",
+        "publish_cnt": 10000,
+        "rank": 21,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8SfThP",
+        "hashtag_name": "blockchain",
+        "publish_cnt": 22000,
+        "rank": 22,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "XhBlCS",
+        "hashtag_name": "memecoins",
+        "publish_cnt": 16000,
+        "rank": 23,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "HZuts2",
+        "hashtag_name": "financialliteracy",
+        "publish_cnt": 10000,
+        "rank": 24,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "u8SZsB",
+        "hashtag_name": "stock",
+        "publish_cnt": 10000,
+        "rank": 25,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "vRqaYi",
+        "hashtag_name": "eth",
+        "publish_cnt": 15000,
+        "rank": 26,
+        "rank_diff": 10,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "16Dpxa",
+        "hashtag_name": "elon",
+        "publish_cnt": 13000,
+        "rank": 27,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "H4JRNo",
+        "hashtag_name": "shopify",
+        "publish_cnt": 13000,
+        "rank": 28,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "kZVFe0",
+        "hashtag_name": "ethereum",
+        "publish_cnt": 21000,
+        "rank": 29,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "nyiMDL",
+        "hashtag_name": "savemoney",
+        "publish_cnt": 6000,
+        "rank": 30,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "Mg7Ymn",
+        "hashtag_name": "buisness",
+        "publish_cnt": 11000,
+        "rank": 31,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "VtIKbu",
+        "hashtag_name": "daytrader",
+        "publish_cnt": 17000,
+        "rank": 32,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "3sI1oh",
+        "hashtag_name": "ripple",
+        "publish_cnt": 12000,
+        "rank": 33,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "iDeLVd",
+        "hashtag_name": "cryptonews",
+        "publish_cnt": 18000,
+        "rank": 34,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ew0FGm",
+        "hashtag_name": "taxseason",
+        "publish_cnt": 6000,
+        "rank": 35,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "dCQ1zr",
+        "hashtag_name": "mining",
+        "publish_cnt": 5000,
+        "rank": 36,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "tKLqgp",
+        "hashtag_name": "sidehustles",
+        "publish_cnt": 9000,
+        "rank": 37,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "T1NTnA",
+        "hashtag_name": "tax",
+        "publish_cnt": 5000,
+        "rank": 38,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "w6eBy0",
+        "hashtag_name": "musk",
+        "publish_cnt": 8000,
+        "rank": 39,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "6ec1I4",
+        "hashtag_name": "bullrun",
+        "publish_cnt": 11000,
+        "rank": 40,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "1KHdUp",
+        "hashtag_name": "businessenligne",
+        "publish_cnt": 8000,
+        "rank": 41,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "CVpMrF",
+        "hashtag_name": "tradingtips",
+        "publish_cnt": 9000,
+        "rank": 42,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "gYcOyH",
+        "hashtag_name": "automation",
+        "publish_cnt": 5000,
+        "rank": 43,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "kugVdZ",
+        "hashtag_name": "marketingstrategy",
+        "publish_cnt": 6000,
+        "rank": 44,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "h8gJlx",
+        "hashtag_name": "integrity",
+        "publish_cnt": 3000,
+        "rank": 45,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "oGua4I",
+        "hashtag_name": "cryptok",
+        "publish_cnt": 9000,
+        "rank": 46,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "lWnCqq",
+        "hashtag_name": "xrparmy",
+        "publish_cnt": 9000,
+        "rank": 47,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Q03f3r",
+        "hashtag_name": "libertefinanciere",
+        "publish_cnt": 6000,
+        "rank": 48,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "I7WT0a",
+        "hashtag_name": "knowledgeispower",
+        "publish_cnt": 5000,
+        "rank": 49,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Vy9cfz",
+        "hashtag_name": "altcoins",
+        "publish_cnt": 15000,
+        "rank": 50,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "t2pW9c",
+        "hashtag_name": "moneymantra",
+        "publish_cnt": 9000,
+        "rank": 51,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "W1oCEy",
+        "hashtag_name": "xrpcommunity",
+        "publish_cnt": 6000,
+        "rank": 52,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "UHSaND",
+        "hashtag_name": "sidehustleforbeginners",
+        "publish_cnt": 5000,
+        "rank": 53,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "cGuDoq",
+        "hashtag_name": "financialeducation",
+        "publish_cnt": 3000,
+        "rank": 54,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "yDlDPa",
+        "hashtag_name": "cryptoinvesting",
+        "publish_cnt": 9000,
+        "rank": 55,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "0tL0pS",
+        "hashtag_name": "nasdaq",
+        "publish_cnt": 3000,
+        "rank": 56,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "kl4T14",
+        "hashtag_name": "irs",
+        "publish_cnt": 2000,
+        "rank": 57,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "UN7Sxa",
+        "hashtag_name": "moneytalk",
+        "publish_cnt": 2000,
+        "rank": 58,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "XCk9O4",
+        "hashtag_name": "founder",
+        "publish_cnt": 3000,
+        "rank": 59,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "ZsjHsl",
+        "hashtag_name": "wallstreet",
+        "publish_cnt": 3000,
+        "rank": 60,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "pu3ziC",
+        "hashtag_name": "creditrepair",
+        "publish_cnt": 5000,
+        "rank": 61,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "hASrxX",
+        "hashtag_name": "coinbase",
+        "publish_cnt": 3000,
+        "rank": 62,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "IFbpiQ",
+        "hashtag_name": "riqueza",
+        "publish_cnt": 13000,
+        "rank": 63,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "khFsxT",
+        "hashtag_name": "economics",
+        "publish_cnt": 2000,
+        "rank": 64,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "RYw3xk",
+        "hashtag_name": "patterns",
+        "publish_cnt": 3000,
+        "rank": 65,
+        "rank_diff": 8,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "WNO9WY",
+        "hashtag_name": "vendas",
+        "publish_cnt": 14000,
+        "rank": 66,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "9MkLmb",
+        "hashtag_name": "negociosdigitales",
+        "publish_cnt": 20000,
+        "rank": 67,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "cbSIAC",
+        "hashtag_name": "epargne",
+        "publish_cnt": 2000,
+        "rank": 68,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "IQWvt6",
+        "hashtag_name": "pumpfun",
+        "publish_cnt": 2000,
+        "rank": 69,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "imCr0a",
+        "hashtag_name": "entrepreneurs",
+        "publish_cnt": 3000,
+        "rank": 70,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "EL0C1K",
+        "hashtag_name": "pepecoin",
+        "publish_cnt": 979,
+        "rank": 71,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "MTu2dH",
+        "hashtag_name": "bisnis",
+        "publish_cnt": 11000,
+        "rank": 72,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GMzgTF",
+        "hashtag_name": "strategy",
+        "publish_cnt": 9000,
+        "rank": 73,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Z9TsXr",
+        "hashtag_name": "moneymoves",
+        "publish_cnt": 2000,
+        "rank": 74,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "uQLeEl",
+        "hashtag_name": "inversiones",
+        "publish_cnt": 12000,
+        "rank": 75,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bLVugo",
+        "hashtag_name": "tariffs",
+        "publish_cnt": 3000,
+        "rank": 76,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "XwW20K",
+        "hashtag_name": "opportunity",
+        "publish_cnt": 12000,
+        "rank": 77,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "PzR8M5",
+        "hashtag_name": "homebuyingtips",
+        "publish_cnt": 2000,
+        "rank": 78,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "uRoDo8",
+        "hashtag_name": "generationalwealth",
+        "publish_cnt": 3000,
+        "rank": 79,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "vYfzD1",
+        "hashtag_name": "unemployment",
+        "publish_cnt": 2000,
+        "rank": 80,
+        "rank_diff": 8,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Ft6Ezr",
+        "hashtag_name": "billionaires",
+        "publish_cnt": 2000,
+        "rank": 81,
+        "rank_diff": 16,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "K01GyL",
+        "hashtag_name": "funding",
+        "publish_cnt": 2000,
+        "rank": 82,
+        "rank_diff": 26,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Z2D46x",
+        "hashtag_name": "zelfontwikkeling",
+        "publish_cnt": 10000,
+        "rank": 83,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "HbChK9",
+        "hashtag_name": "persoonlijkeontwikkeling",
+        "publish_cnt": 10000,
+        "rank": 84,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "LC74fC",
+        "hashtag_name": "cashappstocks",
+        "publish_cnt": 3000,
+        "rank": 85,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "W6FkUF",
+        "hashtag_name": "managment",
+        "publish_cnt": 2000,
+        "rank": 86,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "JS2Tgz",
+        "hashtag_name": "sidehustleideas",
+        "publish_cnt": 15000,
+        "rank": 87,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "yqSSC2",
+        "hashtag_name": "investingtips",
+        "publish_cnt": 2000,
+        "rank": 88,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "2uVR2T",
+        "hashtag_name": "taxrefund",
+        "publish_cnt": 1000,
+        "rank": 89,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "EYC7KZ",
+        "hashtag_name": "medicaid",
+        "publish_cnt": 2000,
+        "rank": 90,
+        "rank_diff": 45,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "u3Ysk7",
+        "hashtag_name": "\u043e\u0431\u0443\u0447\u0435\u043d\u0438\u0435",
+        "publish_cnt": 8000,
+        "rank": 91,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "BruKTF",
+        "hashtag_name": "phantomwallet",
+        "publish_cnt": 734,
+        "rank": 92,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "AvHyXY",
+        "hashtag_name": "comunidadlatina",
+        "publish_cnt": 846,
+        "rank": 93,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GFojW5",
+        "hashtag_name": "beginnerfriendly",
+        "publish_cnt": 2000,
+        "rank": 94,
+        "rank_diff": 13,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "jhFBzl",
+        "hashtag_name": "investasi",
+        "publish_cnt": 6000,
+        "rank": 95,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "5RzJaN",
+        "hashtag_name": "solona",
+        "publish_cnt": 505,
+        "rank": 96,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "4UPLgN",
+        "hashtag_name": "pers\u00f6nlichkeitsentwicklung",
+        "publish_cnt": 8000,
+        "rank": 97,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "EiAQrt",
+        "hashtag_name": "earnmoney",
+        "publish_cnt": 7000,
+        "rank": 98,
+        "rank_diff": 12,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "58gOYq",
+        "hashtag_name": "finance101",
+        "publish_cnt": 1000,
+        "rank": 99,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "jZeRJM",
+        "hashtag_name": "richesse",
+        "publish_cnt": 11000,
+        "rank": 100,
+        "rank_diff": 12,
+        "rank_diff_type": 1
+    }
+]
