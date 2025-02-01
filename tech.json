@@ -1,0 +1,802 @@
+[
+    {
+        "hashtag_id": "m2SlWc",
+        "hashtag_name": "jbl",
+        "publish_cnt": 10000,
+        "rank": 1,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "fevHfu",
+        "hashtag_name": "speaker",
+        "publish_cnt": 20000,
+        "rank": 2,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Dcb0Sl",
+        "hashtag_name": "vivo",
+        "publish_cnt": 17000,
+        "rank": 3,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "nfRiN8",
+        "hashtag_name": "redmi",
+        "publish_cnt": 13000,
+        "rank": 4,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "JVEOhB",
+        "hashtag_name": "appleevent",
+        "publish_cnt": 34000,
+        "rank": 5,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "RBHLFx",
+        "hashtag_name": "galaxyai",
+        "publish_cnt": 4000,
+        "rank": 6,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "GP3cI1",
+        "hashtag_name": "jblspeaker",
+        "publish_cnt": 2000,
+        "rank": 7,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "vVqouH",
+        "hashtag_name": "phoneholder",
+        "publish_cnt": 10000,
+        "rank": 8,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pVUtfv",
+        "hashtag_name": "tecnolog\u00eda",
+        "publish_cnt": 4000,
+        "rank": 9,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pCPiEa",
+        "hashtag_name": "fastcharging",
+        "publish_cnt": 7000,
+        "rank": 10,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "fcC1e0",
+        "hashtag_name": "innovaci\u00f3n",
+        "publish_cnt": 4000,
+        "rank": 11,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "DTRym2",
+        "hashtag_name": "nokia",
+        "publish_cnt": 4000,
+        "rank": 12,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "5YKY75",
+        "hashtag_name": "phoneaccessories",
+        "publish_cnt": 5000,
+        "rank": 13,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "90tSoF",
+        "hashtag_name": "alarm",
+        "publish_cnt": 3000,
+        "rank": 14,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ORwciR",
+        "hashtag_name": "lenovo",
+        "publish_cnt": 4000,
+        "rank": 15,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "4S81QA",
+        "hashtag_name": "\u0442\u0435\u0447\u0442\u043e\u043a",
+        "publish_cnt": 4000,
+        "rank": 16,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "w5ph39",
+        "hashtag_name": "oneplus",
+        "publish_cnt": 3000,
+        "rank": 17,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "5dsI6T",
+        "hashtag_name": "phonecases",
+        "publish_cnt": 2000,
+        "rank": 18,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "6nYAaL",
+        "hashtag_name": "printer",
+        "publish_cnt": 3000,
+        "rank": 19,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "cSP6mL",
+        "hashtag_name": "fastcharger",
+        "publish_cnt": 4000,
+        "rank": 20,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "fSdfTo",
+        "hashtag_name": "djiosmopocket3",
+        "publish_cnt": 3000,
+        "rank": 21,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "1Cu7hh",
+        "hashtag_name": "honor",
+        "publish_cnt": 10000,
+        "rank": 22,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "EO6O6o",
+        "hashtag_name": "phonestand",
+        "publish_cnt": 3000,
+        "rank": 23,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "Mii6dp",
+        "hashtag_name": "vivox200pro",
+        "publish_cnt": 2000,
+        "rank": 24,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "1lT8hF",
+        "hashtag_name": "iphonex",
+        "publish_cnt": 2000,
+        "rank": 25,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "47A3OP",
+        "hashtag_name": "wirelessmicrophone",
+        "publish_cnt": 3000,
+        "rank": 26,
+        "rank_diff": 65,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "KEhojd",
+        "hashtag_name": "earpods",
+        "publish_cnt": 2000,
+        "rank": 27,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "kh3N0k",
+        "hashtag_name": "macbookpro",
+        "publish_cnt": 1000,
+        "rank": 28,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "URbS0w",
+        "hashtag_name": "twsbluetooth",
+        "publish_cnt": 12000,
+        "rank": 29,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "KsAuxr",
+        "hashtag_name": "minispeaker",
+        "publish_cnt": 2000,
+        "rank": 30,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "z4reBf",
+        "hashtag_name": "speakerbluetooth",
+        "publish_cnt": 11000,
+        "rank": 31,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ekRXQ5",
+        "hashtag_name": "gimbal",
+        "publish_cnt": 1000,
+        "rank": 32,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "eETUBd",
+        "hashtag_name": "electronics",
+        "publish_cnt": 9000,
+        "rank": 33,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "uvqTyA",
+        "hashtag_name": "iphones",
+        "publish_cnt": 2000,
+        "rank": 34,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "PU6D5p",
+        "hashtag_name": "teamgalaxy",
+        "publish_cnt": 663,
+        "rank": 35,
+        "rank_diff": 40,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "YcCa70",
+        "hashtag_name": "selfielight",
+        "publish_cnt": 2000,
+        "rank": 36,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "rf5bek",
+        "hashtag_name": "goojodoq",
+        "publish_cnt": 9000,
+        "rank": 37,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Au8iNA",
+        "hashtag_name": "iqoo",
+        "publish_cnt": 1000,
+        "rank": 38,
+        "rank_diff": 6,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "HIO3zY",
+        "hashtag_name": "mobilephone",
+        "publish_cnt": 2000,
+        "rank": 39,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "wOEtqj",
+        "hashtag_name": "heater",
+        "publish_cnt": 2000,
+        "rank": 40,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "c79PmV",
+        "hashtag_name": "droneshow",
+        "publish_cnt": 785,
+        "rank": 41,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "2UbCJH",
+        "hashtag_name": "iphone17",
+        "publish_cnt": 908,
+        "rank": 42,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "zC1nOv",
+        "hashtag_name": "phonemount",
+        "publish_cnt": 2000,
+        "rank": 43,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "lEkdTC",
+        "hashtag_name": "\u0441\u043c\u0430\u0440\u0442\u0444\u043e\u043d",
+        "publish_cnt": 967,
+        "rank": 44,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "mNn8J6",
+        "hashtag_name": "stayconnected",
+        "publish_cnt": 2000,
+        "rank": 45,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "dA9EkM",
+        "hashtag_name": "airbuds",
+        "publish_cnt": 2000,
+        "rank": 46,
+        "rank_diff": 9,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "CFxbHv",
+        "hashtag_name": "techlife",
+        "publish_cnt": 1000,
+        "rank": 47,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "p4ViZG",
+        "hashtag_name": "elektronik",
+        "publish_cnt": 7000,
+        "rank": 48,
+        "rank_diff": 13,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "YCcIBw",
+        "hashtag_name": "djiosmo",
+        "publish_cnt": 901,
+        "rank": 49,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "0MAC52",
+        "hashtag_name": "smarttech",
+        "publish_cnt": 1000,
+        "rank": 50,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "cUC0Ag",
+        "hashtag_name": "induction",
+        "publish_cnt": 1000,
+        "rank": 51,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "wnGaVY",
+        "hashtag_name": "magneticphoneholder",
+        "publish_cnt": 1000,
+        "rank": 52,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "4Y8olp",
+        "hashtag_name": "telefon",
+        "publish_cnt": 4000,
+        "rank": 53,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pWNrFf",
+        "hashtag_name": "16promax",
+        "publish_cnt": 3000,
+        "rank": 54,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "9WW104",
+        "hashtag_name": "twsmurah",
+        "publish_cnt": 6000,
+        "rank": 55,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "3oIkFQ",
+        "hashtag_name": "micwireless",
+        "publish_cnt": 6000,
+        "rank": 56,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "F1ttxt",
+        "hashtag_name": "hamradio",
+        "publish_cnt": 1000,
+        "rank": 57,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "4WYL7e",
+        "hashtag_name": "philips",
+        "publish_cnt": 3000,
+        "rank": 58,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "xabY3j",
+        "hashtag_name": "\u0e1e\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e41\u0e1a\u0e07\u0e04\u0e4c",
+        "publish_cnt": 5000,
+        "rank": 59,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "VgTyQu",
+        "hashtag_name": "bambulab",
+        "publish_cnt": 4000,
+        "rank": 60,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Bjpw34",
+        "hashtag_name": "sentersuperterang",
+        "publish_cnt": 4000,
+        "rank": 61,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "O9EYrE",
+        "hashtag_name": "senter",
+        "publish_cnt": 6000,
+        "rank": 62,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "xZl4I0",
+        "hashtag_name": "techaccessories",
+        "publish_cnt": 1000,
+        "rank": 63,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "a9GGOE",
+        "hashtag_name": "techessentials",
+        "publish_cnt": 1000,
+        "rank": 64,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "5h2kyw",
+        "hashtag_name": "oneui7",
+        "publish_cnt": 673,
+        "rank": 65,
+        "rank_diff": 15,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "vfD21N",
+        "hashtag_name": "selfiesticktripod",
+        "publish_cnt": 898,
+        "rank": 66,
+        "rank_diff": 10,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pTi2TR",
+        "hashtag_name": "telefono",
+        "publish_cnt": 2000,
+        "rank": 67,
+        "rank_diff": 46,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "QW08xI",
+        "hashtag_name": "lamputidur",
+        "publish_cnt": 4000,
+        "rank": 68,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "mx5E7s",
+        "hashtag_name": "ipod",
+        "publish_cnt": 583,
+        "rank": 69,
+        "rank_diff": 22,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "VqKAOG",
+        "hashtag_name": "\u0e25\u0e4d\u0e32\u0e42\u0e1e\u0e07",
+        "publish_cnt": 3000,
+        "rank": 70,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "Oxcy1J",
+        "hashtag_name": "winwilliam",
+        "publish_cnt": 3000,
+        "rank": 71,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "yUu3bK",
+        "hashtag_name": "\u0441\u0438\u0444\u043e\u043d",
+        "publish_cnt": 629,
+        "rank": 72,
+        "rank_diff": 10,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "wVdf3T",
+        "hashtag_name": "multifunction",
+        "publish_cnt": 961,
+        "rank": 73,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "LtMVBj",
+        "hashtag_name": "senterkepala",
+        "publish_cnt": 3000,
+        "rank": 74,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "M2LJwd",
+        "hashtag_name": "chargeriphone",
+        "publish_cnt": 3000,
+        "rank": 75,
+        "rank_diff": 12,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "hX0oFc",
+        "hashtag_name": "electronicsweek",
+        "publish_cnt": 1000,
+        "rank": 76,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "2coNdV",
+        "hashtag_name": "tainghe",
+        "publish_cnt": 2000,
+        "rank": 77,
+        "rank_diff": 12,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Ak12uK",
+        "hashtag_name": "twsgaming",
+        "publish_cnt": 3000,
+        "rank": 78,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "KBUt2s",
+        "hashtag_name": "timbangandigital",
+        "publish_cnt": 5000,
+        "rank": 79,
+        "rank_diff": 9,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "w70DUD",
+        "hashtag_name": "soundcard",
+        "publish_cnt": 4000,
+        "rank": 80,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "SrpGy6",
+        "hashtag_name": "\u0e02\u0e32\u0e15\u0e31\u0e49\u0e07\u0e42\u0e17\u0e23\u0e28\u0e31\u0e1e\u0e17\u0e4c",
+        "publish_cnt": 3000,
+        "rank": 81,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "JsrBzj",
+        "hashtag_name": "tnw",
+        "publish_cnt": 4000,
+        "rank": 82,
+        "rank_diff": 13,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "tRP0S9",
+        "hashtag_name": "\u0e2b\u0e39\u0e1f\u0e31\u0e07\u0e1a\u0e25\u0e39\u0e17\u0e39\u0e18\u0e44\u0e23\u0e49\u0e2a\u0e32\u0e22",
+        "publish_cnt": 3000,
+        "rank": 83,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "metkwB",
+        "hashtag_name": "tongsisbluetooth",
+        "publish_cnt": 4000,
+        "rank": 84,
+        "rank_diff": 10,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "aQWfsM",
+        "hashtag_name": "\u0e1e\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e41\u0e1a\u0e07\u0e04\u0e4c\u0e1e\u0e01\u0e1e\u0e32",
+        "publish_cnt": 3000,
+        "rank": 85,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "7wOJ6G",
+        "hashtag_name": "smartring",
+        "publish_cnt": 746,
+        "rank": 86,
+        "rank_diff": 21,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "j8VMLj",
+        "hashtag_name": "thinkpad",
+        "publish_cnt": 401,
+        "rank": 87,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "FpF0f7",
+        "hashtag_name": "hpmurah",
+        "publish_cnt": 3000,
+        "rank": 88,
+        "rank_diff": 4,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "AtjIHI",
+        "hashtag_name": "cellphone",
+        "publish_cnt": 3000,
+        "rank": 89,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "YArJZx",
+        "hashtag_name": "pompa",
+        "publish_cnt": 3000,
+        "rank": 90,
+        "rank_diff": 24,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "JUvwua",
+        "hashtag_name": "headsetmurah",
+        "publish_cnt": 3000,
+        "rank": 91,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8aLWMq",
+        "hashtag_name": "dron",
+        "publish_cnt": 2000,
+        "rank": 92,
+        "rank_diff": 15,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "0xT46T",
+        "hashtag_name": "iphone16promaxcase",
+        "publish_cnt": 962,
+        "rank": 93,
+        "rank_diff": 30,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "fCDxfC",
+        "hashtag_name": "earphonebluetooth",
+        "publish_cnt": 3000,
+        "rank": 94,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "IreoFf",
+        "hashtag_name": "microphonewireless",
+        "publish_cnt": 4000,
+        "rank": 95,
+        "rank_diff": 13,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "XFX5Uc",
+        "hashtag_name": "tainghebluetooth",
+        "publish_cnt": 2000,
+        "rank": 96,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "50Snt2",
+        "hashtag_name": "camaradeseguridad",
+        "publish_cnt": 293,
+        "rank": 97,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "spqqc5",
+        "hashtag_name": "techrevolution",
+        "publish_cnt": 501,
+        "rank": 98,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "WbDVoI",
+        "hashtag_name": "simcard",
+        "publish_cnt": 496,
+        "rank": 99,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "tcvjC2",
+        "hashtag_name": "pinkipad",
+        "publish_cnt": 337,
+        "rank": 100,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    }
+]
