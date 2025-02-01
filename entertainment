@@ -1,0 +1,802 @@
+[
+    {
+        "hashtag_id": "aGzsGg",
+        "hashtag_name": "squidgame",
+        "publish_cnt": 437000,
+        "rank": 1,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "vjFFOh",
+        "hashtag_name": "trump",
+        "publish_cnt": 258000,
+        "rank": 2,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "Gtnxmn",
+        "hashtag_name": "kdrama",
+        "publish_cnt": 130000,
+        "rank": 3,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "t4fPu7",
+        "hashtag_name": "california",
+        "publish_cnt": 154000,
+        "rank": 4,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "qF5Oir",
+        "hashtag_name": "donaldtrump",
+        "publish_cnt": 97000,
+        "rank": 5,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "zBx2R2",
+        "hashtag_name": "thanos",
+        "publish_cnt": 101000,
+        "rank": 6,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "DDnlyz",
+        "hashtag_name": "squidgamenetflix",
+        "publish_cnt": 91000,
+        "rank": 7,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "IAVbmE",
+        "hashtag_name": "lyrics_songs",
+        "publish_cnt": 65000,
+        "rank": 8,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "AK6qDN",
+        "hashtag_name": "netflixseries",
+        "publish_cnt": 60000,
+        "rank": 9,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "MmtnCz",
+        "hashtag_name": "korean",
+        "publish_cnt": 66000,
+        "rank": 10,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "XcKhBI",
+        "hashtag_name": "rose",
+        "publish_cnt": 70000,
+        "rank": 11,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "eucNhT",
+        "hashtag_name": "lyric",
+        "publish_cnt": 48000,
+        "rank": 12,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "cE8qCF",
+        "hashtag_name": "politics",
+        "publish_cnt": 62000,
+        "rank": 13,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "dLP9Da",
+        "hashtag_name": "estadosunidos",
+        "publish_cnt": 54000,
+        "rank": 14,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "VtHyjU",
+        "hashtag_name": "estadosunidos\ud83c\uddfa\ud83c\uddf8",
+        "publish_cnt": 60000,
+        "rank": 15,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "11x1Or",
+        "hashtag_name": "dexter",
+        "publish_cnt": 32000,
+        "rank": 16,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Ke8sx5",
+        "hashtag_name": "aliceinborderland",
+        "publish_cnt": 34000,
+        "rank": 17,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "85wGno",
+        "hashtag_name": "immigration",
+        "publish_cnt": 29000,
+        "rank": 18,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "6RZhpb",
+        "hashtag_name": "selenagomez",
+        "publish_cnt": 21000,
+        "rank": 19,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "U1i0yC",
+        "hashtag_name": "action",
+        "publish_cnt": 32000,
+        "rank": 20,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "SKivra",
+        "hashtag_name": "wicked",
+        "publish_cnt": 28000,
+        "rank": 21,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "LvrobZ",
+        "hashtag_name": "fanfic",
+        "publish_cnt": 36000,
+        "rank": 22,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "h4LduB",
+        "hashtag_name": "001",
+        "publish_cnt": 28000,
+        "rank": 23,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "sBFWK3",
+        "hashtag_name": "choiseunghyun",
+        "publish_cnt": 28000,
+        "rank": 24,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "W1WuIo",
+        "hashtag_name": "456",
+        "publish_cnt": 29000,
+        "rank": 25,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "7M9wVe",
+        "hashtag_name": "frontman",
+        "publish_cnt": 22000,
+        "rank": 26,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "uqgoNj",
+        "hashtag_name": "itendswithus",
+        "publish_cnt": 41000,
+        "rank": 27,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "fudQpx",
+        "hashtag_name": "squidgameseason2",
+        "publish_cnt": 37000,
+        "rank": 28,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "paCF9H",
+        "hashtag_name": "aquarius",
+        "publish_cnt": 31000,
+        "rank": 29,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "xXqpvC",
+        "hashtag_name": "xokitty",
+        "publish_cnt": 28000,
+        "rank": 30,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "bF5HCr",
+        "hashtag_name": "latinosenusa",
+        "publish_cnt": 17000,
+        "rank": 31,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "3bdYFL",
+        "hashtag_name": "mustwatch",
+        "publish_cnt": 28000,
+        "rank": 32,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "k5XVQF",
+        "hashtag_name": "minho",
+        "publish_cnt": 26000,
+        "rank": 33,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "xhyTYB",
+        "hashtag_name": "godzilla",
+        "publish_cnt": 23000,
+        "rank": 34,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "N7eOdo",
+        "hashtag_name": "230",
+        "publish_cnt": 27000,
+        "rank": 35,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "7YILN8",
+        "hashtag_name": "tarotcards",
+        "publish_cnt": 61000,
+        "rank": 36,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "iIrQ8d",
+        "hashtag_name": "squidgames",
+        "publish_cnt": 20000,
+        "rank": 37,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "0W6Qz0",
+        "hashtag_name": "gihun",
+        "publish_cnt": 15000,
+        "rank": 38,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "t3tUq2",
+        "hashtag_name": "dextermorgan",
+        "publish_cnt": 15000,
+        "rank": 39,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Xid4Qi",
+        "hashtag_name": "darthvader",
+        "publish_cnt": 36000,
+        "rank": 40,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "AuAf6G",
+        "hashtag_name": "spiritualawakening",
+        "publish_cnt": 53000,
+        "rank": 41,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "nVO1Pa",
+        "hashtag_name": "demitrakalogeras",
+        "publish_cnt": 19000,
+        "rank": 42,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "KE7XZT",
+        "hashtag_name": "kalogerassisters",
+        "publish_cnt": 19000,
+        "rank": 43,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "puQeMq",
+        "hashtag_name": "aib",
+        "publish_cnt": 15000,
+        "rank": 44,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "gxcTGo",
+        "hashtag_name": "greysanatomy",
+        "publish_cnt": 13000,
+        "rank": 45,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "gMc4vV",
+        "hashtag_name": "upcoming",
+        "publish_cnt": 36000,
+        "rank": 46,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "zqJgFV",
+        "hashtag_name": "blakelively",
+        "publish_cnt": 10000,
+        "rank": 47,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "eFoQo2",
+        "hashtag_name": "player456",
+        "publish_cnt": 11000,
+        "rank": 48,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "itVs9Y",
+        "hashtag_name": "squidgame3",
+        "publish_cnt": 3000,
+        "rank": 49,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "1gcadU",
+        "hashtag_name": "kalogeras",
+        "publish_cnt": 16000,
+        "rank": 50,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "TmvwTg",
+        "hashtag_name": "mecore",
+        "publish_cnt": 11000,
+        "rank": 51,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "QWBObj",
+        "hashtag_name": "nunu",
+        "publish_cnt": 11000,
+        "rank": 52,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "nfBzVC",
+        "hashtag_name": "therookie",
+        "publish_cnt": 11000,
+        "rank": 53,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "blAXlv",
+        "hashtag_name": "democrats",
+        "publish_cnt": 19000,
+        "rank": 54,
+        "rank_diff": 9,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "LF51vi",
+        "hashtag_name": "squidgames2",
+        "publish_cnt": 13000,
+        "rank": 55,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Y403t0",
+        "hashtag_name": "rfkjr",
+        "publish_cnt": 4000,
+        "rank": 56,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8yLwNK",
+        "hashtag_name": "aftereffectsedits",
+        "publish_cnt": 8000,
+        "rank": 57,
+        "rank_diff": 1,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "k8ypbr",
+        "hashtag_name": "nashville",
+        "publish_cnt": 14000,
+        "rank": 58,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "vEjpds",
+        "hashtag_name": "government",
+        "publish_cnt": 11000,
+        "rank": 59,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bzTlxy",
+        "hashtag_name": "timotheechalamet",
+        "publish_cnt": 7000,
+        "rank": 60,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "EOMEZJ",
+        "hashtag_name": "rfk",
+        "publish_cnt": 5000,
+        "rank": 61,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "cjT2Lf",
+        "hashtag_name": "macmiller",
+        "publish_cnt": 10000,
+        "rank": 62,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "AdhKMw",
+        "hashtag_name": "immigrants",
+        "publish_cnt": 7000,
+        "rank": 63,
+        "rank_diff": 4,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "9YKv6X",
+        "hashtag_name": "anakinskywalker",
+        "publish_cnt": 7000,
+        "rank": 64,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "04T70E",
+        "hashtag_name": "toalltheboysivelovedbefore",
+        "publish_cnt": 8000,
+        "rank": 65,
+        "rank_diff": 3,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "QGe3Bc",
+        "hashtag_name": "alabamabarker",
+        "publish_cnt": 2000,
+        "rank": 66,
+        "rank_diff": 12,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pe0fkD",
+        "hashtag_name": "squidgameedit",
+        "publish_cnt": 69000,
+        "rank": 67,
+        "rank_diff": 55,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "uJjI7R",
+        "hashtag_name": "ashtrevinodrama",
+        "publish_cnt": 7000,
+        "rank": 68,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "dFXK45",
+        "hashtag_name": "asmaragenz",
+        "publish_cnt": 47000,
+        "rank": 69,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ccWPcV",
+        "hashtag_name": "ashleytrevino",
+        "publish_cnt": 6000,
+        "rank": 70,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "JJIeeN",
+        "hashtag_name": "latinosenusa\ud83c\uddfa\ud83c\uddf8",
+        "publish_cnt": 6000,
+        "rank": 71,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "U5HH6G",
+        "hashtag_name": "carnaval",
+        "publish_cnt": 47000,
+        "rank": 72,
+        "rank_diff": 2,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "YRAtFQ",
+        "hashtag_name": "marveltok",
+        "publish_cnt": 7000,
+        "rank": 73,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "p49F0L",
+        "hashtag_name": "babymonster",
+        "publish_cnt": 69000,
+        "rank": 74,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "1BG8jl",
+        "hashtag_name": "inmigracion",
+        "publish_cnt": 4000,
+        "rank": 75,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "zHPG5G",
+        "hashtag_name": "5sos",
+        "publish_cnt": 14000,
+        "rank": 76,
+        "rank_diff": 11,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "nxwDFp",
+        "hashtag_name": "politicstiktok",
+        "publish_cnt": 10000,
+        "rank": 77,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "ZCPbDq",
+        "hashtag_name": "fuji",
+        "publish_cnt": 41000,
+        "rank": 78,
+        "rank_diff": 7,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Stq0xr",
+        "hashtag_name": "jhope",
+        "publish_cnt": 98000,
+        "rank": 79,
+        "rank_diff": 66,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "a2y33v",
+        "hashtag_name": "abeltesfaye",
+        "publish_cnt": 4000,
+        "rank": 80,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "r414hr",
+        "hashtag_name": "hozier",
+        "publish_cnt": 6000,
+        "rank": 81,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "B87tDQ",
+        "hashtag_name": "noahrisling",
+        "publish_cnt": 7000,
+        "rank": 82,
+        "rank_diff": 6,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "bSYiVq",
+        "hashtag_name": "amnse",
+        "publish_cnt": 43000,
+        "rank": 83,
+        "rank_diff": 3,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "hwSJMT",
+        "hashtag_name": "filme",
+        "publish_cnt": 32000,
+        "rank": 84,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "wXMeS8",
+        "hashtag_name": "baddiesmidwest",
+        "publish_cnt": 6000,
+        "rank": 85,
+        "rank_diff": 4,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "5Mcqz3",
+        "hashtag_name": "realityshow",
+        "publish_cnt": 7000,
+        "rank": 86,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "iJzKSE",
+        "hashtag_name": "fujian",
+        "publish_cnt": 27000,
+        "rank": 87,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "N0Wd71",
+        "hashtag_name": "\u0438\u0433\u0440\u0430\u0432\u043a\u0430\u043b\u044c\u043c\u0430\u0440\u0430",
+        "publish_cnt": 34000,
+        "rank": 88,
+        "rank_diff": 68,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "oLoHY9",
+        "hashtag_name": "republicans",
+        "publish_cnt": 8000,
+        "rank": 89,
+        "rank_diff": 7,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "8dmFPr",
+        "hashtag_name": "ive",
+        "publish_cnt": 31000,
+        "rank": 90,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "3wMLEV",
+        "hashtag_name": "gmmtv",
+        "publish_cnt": 40000,
+        "rank": 91,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "gTGORZ",
+        "hashtag_name": "serie",
+        "publish_cnt": 28000,
+        "rank": 92,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "JZHBlF",
+        "hashtag_name": "aryamohan",
+        "publish_cnt": 26000,
+        "rank": 93,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "7Xgkkm",
+        "hashtag_name": "mexicanosenusa",
+        "publish_cnt": 3000,
+        "rank": 94,
+        "rank_diff": 2,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Ge8H7y",
+        "hashtag_name": "ros\u00e9",
+        "publish_cnt": 34000,
+        "rank": 95,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "Yt2z8k",
+        "hashtag_name": "presidenttrump",
+        "publish_cnt": 8000,
+        "rank": 96,
+        "rank_diff": 5,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "SEYoUv",
+        "hashtag_name": "afd",
+        "publish_cnt": 34000,
+        "rank": 97,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "EVVEkJ",
+        "hashtag_name": "angmutyangsectione",
+        "publish_cnt": 29000,
+        "rank": 98,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "vTDz5y",
+        "hashtag_name": "dorama",
+        "publish_cnt": 28000,
+        "rank": 99,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "kUrauH",
+        "hashtag_name": "cine",
+        "publish_cnt": 21000,
+        "rank": 100,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    }
+]
