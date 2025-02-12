@@ -1,40 +1,36 @@
 [
-    {
-        "hashtag_id": "sXZpJ3",
-        "hashtag_name": "kendricklamar",
-        "publish_cnt": 179000,
-        "video_views": 272000000, 
+   {
+        "hashtag_id": "EvMdiC",
+        "hashtag_name": "drake",
+        "publish_cnt": 73000,
         "rank": 1,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "sahbfB",
-        "hashtag_name": "squidgame",
-        "publish_cnt": 305000,
-        "video_views": 1230000000, 
-        "rank": 2,
-        "rank_diff": 1,
+        "rank_diff": 5,
         "rank_diff_type": 3
     },
     {
-        "hashtag_id": "kwveAZ",
-        "hashtag_name": "drake",
-        "publish_cnt": 49000,
-        "video_views":803000000, 
-        "rank": 3,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "hashtag_id": "vOMTQH",
+        "hashtag_name": "squidgame",
+        "publish_cnt": 300000,
+        "rank": 2,
+        "rank_diff": 1,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "2ADIX2",
-        "hashtag_name": "thesubstance",
-        "publish_cnt": 27000,
-        "video_views": 143000000, 
+        "hashtag_id": "O9RH8i",
+        "hashtag_name": "trump",
+        "publish_cnt": 202000,
+        "rank": 3,
+        "rank_diff": 0,
+        "rank_diff_type": 2
+    },
+    {
+        "hashtag_id": "HL03hX",
+        "hashtag_name": "kdrama",
+        "publish_cnt": 124000,
         "rank": 4,
         "rank_diff": 2,
         "rank_diff_type": 1
-    },
+    }
     {
         "hashtag_id": "bNv2HR",
         "hashtag_name": "jisoo",
