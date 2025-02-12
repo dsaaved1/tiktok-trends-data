@@ -1,800 +1,800 @@
 [
     {
-        "hashtag_id": "1va9tE",
-        "hashtag_name": "valentinesday",
-        "publish_cnt": 906000,
+        "hashtag_id": "daFNPW",
+        "hashtag_name": "superbowl",
+        "publish_cnt": 380000,
         "rank": 1,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 1,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "4bkyyU",
-        "hashtag_name": "playstation",
-        "publish_cnt": 109000,
+        "hashtag_id": "i4Imxe",
+        "hashtag_name": "kendricklamar",
+        "publish_cnt": 167000,
         "rank": 2,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 3,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "gkOlMJ",
-        "hashtag_name": "enhypen",
-        "publish_cnt": 172000,
+        "hashtag_id": "sb2k0e",
+        "hashtag_name": "eagles",
+        "publish_cnt": 141000,
         "rank": 3,
         "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff_type": 2
     },
     {
-        "hashtag_id": "6rUq9K",
-        "hashtag_name": "ps5",
-        "publish_cnt": 91000,
+        "hashtag_id": "VB33Kf",
+        "hashtag_name": "nfl",
+        "publish_cnt": 187000,
         "rank": 4,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "MTEOTW",
-        "hashtag_name": "kanyewest",
+        "hashtag_id": "mjIqQY",
+        "hashtag_name": "halftimeshow",
         "publish_cnt": 48000,
         "rank": 5,
-        "rank_diff": 4,
+        "rank_diff": 22,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "Tdx6yG",
-        "hashtag_name": "invincible",
-        "publish_cnt": 30000,
+        "hashtag_id": "mA8htD",
+        "hashtag_name": "chiefs",
+        "publish_cnt": 67000,
         "rank": 6,
-        "rank_diff": 4,
-        "rank_diff_type": 3
+        "rank_diff": 2,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "eymE8v",
-        "hashtag_name": "jungwon",
-        "publish_cnt": 43000,
+        "hashtag_id": "UFZ0RZ",
+        "hashtag_name": "drake",
+        "publish_cnt": 73000,
         "rank": 7,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "tAc1Z3",
-        "hashtag_name": "psn",
-        "publish_cnt": 15000,
+        "hashtag_id": "UVPhKO",
+        "hashtag_name": "sza",
+        "publish_cnt": 48000,
         "rank": 8,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "93aA5m",
-        "hashtag_name": "atleticodemadrid",
-        "publish_cnt": 22000,
+        "hashtag_id": "Vdj9sp",
+        "hashtag_name": "notlikeus",
+        "publish_cnt": 28000,
         "rank": 9,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "mdnxdv",
-        "hashtag_name": "ye",
-        "publish_cnt": 27000,
+        "hashtag_id": "ZLaWhz",
+        "hashtag_name": "philadelphiaeagles",
+        "publish_cnt": 38000,
         "rank": 10,
-        "rank_diff": 5,
-        "rank_diff_type": 3
-    },
-    {
-        "hashtag_id": "cYLtG4",
-        "hashtag_name": "felizsanvalentin",
-        "publish_cnt": 20000,
-        "rank": 11,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "rf2kTX",
-        "hashtag_name": "jeongin",
-        "publish_cnt": 44000,
-        "rank": 12,
-        "rank_diff": 9,
+        "rank_diff": 4,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "Jar40p",
-        "hashtag_name": "sony",
-        "publish_cnt": 27000,
+        "hashtag_id": "kAPXCn",
+        "hashtag_name": "superbowl2025",
+        "publish_cnt": 32000,
+        "rank": 11,
+        "rank_diff": 8,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "wPZJIb",
+        "hashtag_name": "super",
+        "publish_cnt": 54000,
+        "rank": 12,
+        "rank_diff": 1,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "I2J3c2",
+        "hashtag_name": "philly",
+        "publish_cnt": 45000,
         "rank": 13,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "0MHhQH",
-        "hashtag_name": "abracadabra",
-        "publish_cnt": 43000,
-        "rank": 14,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "aHt1gf",
-        "hashtag_name": "sabado",
-        "publish_cnt": 31000,
-        "rank": 15,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "LfgEwB",
-        "hashtag_name": "kanye",
+        "hashtag_id": "2TW3kk",
+        "hashtag_name": "kendrick",
         "publish_cnt": 20000,
-        "rank": 16,
-        "rank_diff": 7,
+        "rank": 14,
+        "rank_diff": 36,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "FukpKU",
-        "hashtag_name": "ps4",
-        "publish_cnt": 25000,
+        "hashtag_id": "oIlA5y",
+        "hashtag_name": "superbowlliv",
+        "publish_cnt": 23000,
+        "rank": 15,
+        "rank_diff": 9,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "sAEw6P",
+        "hashtag_name": "jalenhurts",
+        "publish_cnt": 18000,
+        "rank": 16,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "P0HNTs",
+        "hashtag_name": "superbowllix",
+        "publish_cnt": 22000,
         "rank": 17,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 4,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "6mpacZ",
-        "hashtag_name": "playstation5",
-        "publish_cnt": 16000,
+        "hashtag_id": "69aCXi",
+        "hashtag_name": "kansascitychiefs",
+        "publish_cnt": 24000,
         "rank": 18,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 2,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "pMd3XH",
-        "hashtag_name": "galentinesday",
-        "publish_cnt": 30000,
-        "rank": 19,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "v45Hpf",
-        "hashtag_name": "montoya",
+        "hashtag_id": "UikhvV",
+        "hashtag_name": "superbowlhalftimeshow",
         "publish_cnt": 12000,
-        "rank": 20,
-        "rank_diff": 12,
+        "rank": 19,
+        "rank_diff": 39,
         "rank_diff_type": 3
     },
     {
-        "hashtag_id": "ijGYQZ",
-        "hashtag_name": "facup",
+        "hashtag_id": "icibzq",
+        "hashtag_name": "halftime",
         "publish_cnt": 10000,
-        "rank": 21,
-        "rank_diff": 3,
+        "rank": 20,
+        "rank_diff": 54,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "Szaxq4",
-        "hashtag_name": "ps",
+        "hashtag_id": "EnaO7J",
+        "hashtag_name": "patrickmahomes",
         "publish_cnt": 17000,
+        "rank": 21,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "I7xKFn",
+        "hashtag_name": "eaglesfootball",
+        "publish_cnt": 19000,
         "rank": 22,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 18,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "HIRK2h",
-        "hashtag_name": "galentines",
-        "publish_cnt": 21000,
+        "hashtag_id": "OxiLqN",
+        "hashtag_name": "flyeaglesfly",
+        "publish_cnt": 20000,
         "rank": 23,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 8,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "1jUP04",
-        "hashtag_name": "server",
-        "publish_cnt": 18000,
+        "hashtag_id": "zy3FYB",
+        "hashtag_name": "cheifs",
+        "publish_cnt": 17000,
         "rank": 24,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 12,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "jXAo2S",
-        "hashtag_name": "playstationnetwork",
-        "publish_cnt": 4000,
+        "hashtag_id": "ma91PK",
+        "hashtag_name": "gobirds",
+        "publish_cnt": 22000,
         "rank": 25,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 2,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "YS5sGu",
-        "hashtag_name": "servers",
-        "publish_cnt": 6000,
+        "hashtag_id": "RN6GtW",
+        "hashtag_name": "nflfootball",
+        "publish_cnt": 26000,
         "rank": 26,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "n5hiQ2",
-        "hashtag_name": "7dias",
-        "publish_cnt": 16000,
+        "hashtag_id": "UkXSSV",
+        "hashtag_name": "traviskelce",
+        "publish_cnt": 17000,
         "rank": 27,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 1,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "pOKzXc",
-        "hashtag_name": "emergencycontact",
-        "publish_cnt": 12000,
+        "hashtag_id": "W06zV7",
+        "hashtag_name": "theynotlikeus",
+        "publish_cnt": 14000,
         "rank": 28,
-        "rank_diff": 13,
+        "rank_diff": 50,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "0q489d",
-        "hashtag_name": "youngerself",
-        "publish_cnt": 11000,
+        "hashtag_id": "tRNQLs",
+        "hashtag_name": "philadelphia",
+        "publish_cnt": 16000,
         "rank": 29,
-        "rank_diff": 13,
-        "rank_diff_type": 1
-    },
-    {
-        "hashtag_id": "V4kHr7",
-        "hashtag_name": "wintersoldier",
-        "publish_cnt": 23000,
-        "rank": 30,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "jndmRv",
-        "hashtag_name": "happyvalentinesday",
+        "hashtag_id": "BgvBtD",
+        "hashtag_name": "kansascity",
         "publish_cnt": 19000,
-        "rank": 31,
-        "rank_diff": 12,
+        "rank": 30,
+        "rank_diff": 5,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "pRfFWk",
-        "hashtag_name": "teamnasdas",
-        "publish_cnt": 10000,
+        "hashtag_id": "ViKOEN",
+        "hashtag_name": "neworleans",
+        "publish_cnt": 24000,
+        "rank": 31,
+        "rank_diff": 11,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "pWjPGu",
+        "hashtag_name": "serenawilliams",
+        "publish_cnt": 5000,
         "rank": 32,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Z5NGwk",
-        "hashtag_name": "camillaaraujo",
-        "publish_cnt": 5000,
+        "hashtag_id": "Z2exEF",
+        "hashtag_name": "saquonbarkley",
+        "publish_cnt": 11000,
         "rank": 33,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "SKyzyC",
-        "hashtag_name": "storytimes",
-        "publish_cnt": 13000,
+        "hashtag_id": "3Z1uul",
+        "hashtag_name": "kdot",
+        "publish_cnt": 7000,
         "rank": 34,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "NZzniI",
-        "hashtag_name": "network",
-        "publish_cnt": 9000,
+        "hashtag_id": "Yj755k",
+        "hashtag_name": "hallelujahchallenge",
+        "publish_cnt": 13000,
         "rank": 35,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "TAodD7",
-        "hashtag_name": "icebreaker",
-        "publish_cnt": 20000,
+        "hashtag_id": "hcss9u",
+        "hashtag_name": "superbowl59",
+        "publish_cnt": 10000,
         "rank": 36,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 17,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "GAZOOb",
-        "hashtag_name": "down",
+        "hashtag_id": "tT1IGb",
+        "hashtag_name": "mahomes",
         "publish_cnt": 8000,
         "rank": 37,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "dNxJiG",
-        "hashtag_name": "yangjungwon",
-        "publish_cnt": 7000,
+        "hashtag_id": "1zS0aS",
+        "hashtag_name": "14\u0444\u0435\u0432\u0440\u0430\u043b\u044f",
+        "publish_cnt": 22000,
         "rank": 38,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 4,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "SuHptd",
-        "hashtag_name": "nikocadoavocado",
-        "publish_cnt": 20000,
+        "hashtag_id": "lNDYK5",
+        "hashtag_name": "phillytiktok",
+        "publish_cnt": 14000,
         "rank": 39,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "ywMN7M",
-        "hashtag_name": "yangjeongin",
-        "publish_cnt": 10000,
+        "hashtag_id": "NqhREn",
+        "hashtag_name": "cooperdejean",
+        "publish_cnt": 4000,
         "rank": 40,
-        "rank_diff": 16,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "nrF0Mp",
+        "hashtag_name": "eaglesnation",
+        "publish_cnt": 8000,
+        "rank": 41,
+        "rank_diff": 18,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "8e23Gi",
-        "hashtag_name": "darkwoods",
-        "publish_cnt": 20000,
-        "rank": 41,
-        "rank_diff": 0,
-        "rank_diff_type": 4
-    },
-    {
-        "hashtag_id": "41bW1d",
-        "hashtag_name": "giyuutomioka",
-        "publish_cnt": 7000,
+        "hashtag_id": "mKBoKz",
+        "hashtag_name": "happyvalentinesday",
+        "publish_cnt": 24000,
         "rank": 42,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 3,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "mroTN8",
-        "hashtag_name": "christmasobby",
-        "publish_cnt": 21000,
+        "hashtag_id": "ukpoiV",
+        "hashtag_name": "superbowlchamps",
+        "publish_cnt": 4000,
         "rank": 43,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "TVKyOG",
-        "hashtag_name": "bilcipher",
-        "publish_cnt": 20000,
+        "hashtag_id": "zisEF0",
+        "hashtag_name": "halftimeshow2025",
+        "publish_cnt": 3000,
         "rank": 44,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "jUJ5SX",
-        "hashtag_name": "criticalstrike",
-        "publish_cnt": 20000,
+        "hashtag_id": "SbeVrq",
+        "hashtag_name": "samuelljackson",
+        "publish_cnt": 3000,
         "rank": 45,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "qhB33R",
-        "hashtag_name": "wintercabin",
-        "publish_cnt": 20000,
+        "hashtag_id": "UHAmuv",
+        "hashtag_name": "allthestars",
+        "publish_cnt": 3000,
         "rank": 46,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "DZBO4a",
-        "hashtag_name": "polaroidlove",
-        "publish_cnt": 3000,
+        "hashtag_id": "RThYAZ",
+        "hashtag_name": "goeagles",
+        "publish_cnt": 5000,
         "rank": 47,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 35,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "JO0JTw",
-        "hashtag_name": "animeadventures",
-        "publish_cnt": 20000,
+        "hashtag_id": "xFeRG1",
+        "hashtag_name": "sblix",
+        "publish_cnt": 3000,
         "rank": 48,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 15,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "fKXVoo",
-        "hashtag_name": "workatapizzaplace",
-        "publish_cnt": 18000,
+        "hashtag_id": "PnwSkW",
+        "hashtag_name": "\u0432\u0430\u04372106",
+        "publish_cnt": 21000,
         "rank": 49,
         "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff_type": 2
     },
     {
-        "hashtag_id": "QMs9IY",
-        "hashtag_name": "spotifyisland",
-        "publish_cnt": 19000,
+        "hashtag_id": "EgLggw",
+        "hashtag_name": "applemusichalftime",
+        "publish_cnt": 1000,
         "rank": 50,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "R9ttKe",
-        "hashtag_name": "slapbattles",
-        "publish_cnt": 19000,
+        "hashtag_id": "rusnQY",
+        "hashtag_name": "mondaymood",
+        "publish_cnt": 9000,
         "rank": 51,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "CsmWJq",
-        "hashtag_name": "serversdown",
-        "publish_cnt": 2000,
+        "hashtag_id": "y2Ilps",
+        "hashtag_name": "tombrady",
+        "publish_cnt": 4000,
         "rank": 52,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "cFKEpR",
-        "hashtag_name": "typicalcolors2",
-        "publish_cnt": 20000,
+        "hashtag_id": "AP1X1I",
+        "hashtag_name": "thunderbolts",
+        "publish_cnt": 2000,
         "rank": 53,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "U2nibw",
-        "hashtag_name": "clockin",
-        "publish_cnt": 19000,
+        "hashtag_id": "xj0kby",
+        "hashtag_name": "kcchiefs",
+        "publish_cnt": 5000,
         "rank": 54,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 12,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "5HUqGt",
-        "hashtag_name": "wintergames",
-        "publish_cnt": 19000,
+        "hashtag_id": "oBSbuc",
+        "hashtag_name": "mustard",
+        "publish_cnt": 3000,
         "rank": 55,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "NGqb3Z",
-        "hashtag_name": "twicesquare",
-        "publish_cnt": 19000,
+        "hashtag_id": "Lrtdwj",
+        "hashtag_name": "yeezy",
+        "publish_cnt": 5000,
         "rank": 56,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "5kwiCQ",
-        "hashtag_name": "polyguns",
-        "publish_cnt": 19000,
+        "hashtag_id": "cH3yRg",
+        "hashtag_name": "ajbrown",
+        "publish_cnt": 3000,
         "rank": 57,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "q6h1CH",
-        "hashtag_name": "pizzaplace",
-        "publish_cnt": 19000,
+        "hashtag_id": "FDWAOl",
+        "hashtag_name": "kendricklamaredit",
+        "publish_cnt": 2000,
         "rank": 58,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Vj96r0",
-        "hashtag_name": "savingchristmas",
-        "publish_cnt": 18000,
+        "hashtag_id": "9Tto1O",
+        "hashtag_name": "gnx",
+        "publish_cnt": 3000,
         "rank": 59,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "JgymmX",
-        "hashtag_name": "tiktokbacktoschooltoday",
-        "publish_cnt": 19000,
+        "hashtag_id": "PDEsw0",
+        "hashtag_name": "luther",
+        "publish_cnt": 4000,
         "rank": 60,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "eEiCLg",
-        "hashtag_name": "winterholidayhunt",
-        "publish_cnt": 19000,
+        "hashtag_id": "kEchsV",
+        "hashtag_name": "eaglesvschiefs",
+        "publish_cnt": 3000,
         "rank": 61,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "g5nH9k",
-        "hashtag_name": "lilsantasam",
-        "publish_cnt": 17000,
+        "hashtag_id": "y7Wzb4",
+        "hashtag_name": "superbowlhalftime",
+        "publish_cnt": 1000,
         "rank": 62,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "JujVTh",
-        "hashtag_name": "pinkponyclub",
-        "publish_cnt": 7000,
+        "hashtag_id": "cRMbXt",
+        "hashtag_name": "tvoff",
+        "publish_cnt": 3000,
         "rank": 63,
-        "rank_diff": 40,
-        "rank_diff_type": 1
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "GIJmGX",
-        "hashtag_name": "fridaynight",
-        "publish_cnt": 8000,
+        "hashtag_id": "kS8wBs",
+        "hashtag_name": "eaglesfans",
+        "publish_cnt": 3000,
         "rank": 64,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "IstNPz",
-        "hashtag_name": "omniman",
+        "hashtag_id": "tl3wYw",
+        "hashtag_name": "touchdown",
         "publish_cnt": 5000,
         "rank": 65,
-        "rank_diff": 38,
-        "rank_diff_type": 3
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "uW7ZzF",
-        "hashtag_name": "invincibleseason3",
-        "publish_cnt": 5000,
+        "hashtag_id": "t3NPCW",
+        "hashtag_name": "americanfootball",
+        "publish_cnt": 4000,
         "rank": 66,
-        "rank_diff": 41,
-        "rank_diff_type": 1
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "f1oLDd",
-        "hashtag_name": "giyuu",
-        "publish_cnt": 6000,
+        "hashtag_id": "gIQol3",
+        "hashtag_name": "bowl",
+        "publish_cnt": 5000,
         "rank": 67,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "kg3Y3s",
-        "hashtag_name": "nyfw",
-        "publish_cnt": 7000,
+        "hashtag_id": "BGPNit",
+        "hashtag_name": "superbowlcommercial",
+        "publish_cnt": 2000,
         "rank": 68,
-        "rank_diff": 40,
-        "rank_diff_type": 1
-    },
-    {
-        "hashtag_id": "zPbk9t",
-        "hashtag_name": "buildaboatfortreasure",
-        "publish_cnt": 18000,
-        "rank": 69,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Vsnt33",
-        "hashtag_name": "galentinesparty",
-        "publish_cnt": 7000,
+        "hashtag_id": "roF8xd",
+        "hashtag_name": "\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c",
+        "publish_cnt": 69000,
+        "rank": 69,
+        "rank_diff": 4,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "XXbVVA",
+        "hashtag_name": "lamar",
+        "publish_cnt": 3000,
         "rank": 70,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "57PVFo",
-        "hashtag_name": "superbowlsunday",
-        "publish_cnt": 6000,
+        "hashtag_id": "iH4asv",
+        "hashtag_name": "nflmemes",
+        "publish_cnt": 3000,
         "rank": 71,
-        "rank_diff": 40,
-        "rank_diff_type": 1
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "ZVtTCa",
-        "hashtag_name": "tomioka",
-        "publish_cnt": 6000,
+        "hashtag_id": "a7zv7k",
+        "hashtag_name": "hurts",
+        "publish_cnt": 4000,
         "rank": 72,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "cYPg8g",
-        "hashtag_name": "christmastycoon",
-        "publish_cnt": 17000,
+        "hashtag_id": "qYeUJO",
+        "hashtag_name": "bta",
+        "publish_cnt": 3000,
         "rank": 73,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "GFaJWj",
-        "hashtag_name": "bloxtruit",
-        "publish_cnt": 17000,
+        "hashtag_id": "T4Vst6",
+        "hashtag_name": "superbowlparty",
+        "publish_cnt": 3000,
         "rank": 74,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 6,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "Fdqt1K",
-        "hashtag_name": "boostvector",
-        "publish_cnt": 16000,
+        "hashtag_id": "vGuUAh",
+        "hashtag_name": "vivinos",
+        "publish_cnt": 8000,
         "rank": 75,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "HFzgGg",
-        "hashtag_name": "ufc312",
-        "publish_cnt": 5000,
+        "hashtag_id": "1MWfCQ",
+        "hashtag_name": "kelce",
+        "publish_cnt": 2000,
         "rank": 76,
-        "rank_diff": 43,
-        "rank_diff_type": 1
+        "rank_diff": 16,
+        "rank_diff_type": 3
     },
     {
-        "hashtag_id": "NE8N7E",
-        "hashtag_name": "criticschoiceawards",
-        "publish_cnt": 2000,
+        "hashtag_id": "b2bU8x",
+        "hashtag_name": "superbowlhallftimeshow",
+        "publish_cnt": 1000,
         "rank": 77,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "BXJYzl",
-        "hashtag_name": "wheressanta",
-        "publish_cnt": 16000,
+        "hashtag_id": "abBxQ5",
+        "hashtag_name": "gobirds\ud83e\udd85",
+        "publish_cnt": 4000,
         "rank": 78,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 10,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "IgYED1",
-        "hashtag_name": "presentprotectors",
-        "publish_cnt": 16000,
+        "hashtag_id": "9Ww0iO",
+        "hashtag_name": "kendricklamarsuperbowl",
+        "publish_cnt": 1000,
         "rank": 79,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "aIHx3f",
-        "hashtag_name": "markgrayson",
-        "publish_cnt": 4000,
+        "hashtag_id": "nXqF3U",
+        "hashtag_name": "realnovel",
+        "publish_cnt": 9000,
         "rank": 80,
-        "rank_diff": 45,
-        "rank_diff_type": 1
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "8YOnAP",
-        "hashtag_name": "superbowllix",
-        "publish_cnt": 5000,
+        "hashtag_id": "VrWldu",
+        "hashtag_name": "chiefsvseagles",
+        "publish_cnt": 3000,
         "rank": 81,
-        "rank_diff": 45,
+        "rank_diff": 13,
         "rank_diff_type": 1
     },
     {
-        "hashtag_id": "6YwmrT",
-        "hashtag_name": "jungwonenhypen",
-        "publish_cnt": 5000,
+        "hashtag_id": "EivnhT",
+        "hashtag_name": "philidelphiaeagles",
+        "publish_cnt": 2000,
         "rank": 82,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "YWjYG0",
-        "hashtag_name": "christmasshopping",
-        "publish_cnt": 7000,
+        "hashtag_id": "WpAdfi",
+        "hashtag_name": "kendricklamarhalftimeshow",
+        "publish_cnt": 862,
         "rank": 83,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "NUR8b0",
-        "hashtag_name": "mm2typ",
-        "publish_cnt": 16000,
+        "hashtag_id": "T9ww5L",
+        "hashtag_name": "poppi",
+        "publish_cnt": 3000,
         "rank": 84,
-        "rank_diff": 0,
-        "rank_diff_type": 4
+        "rank_diff": 14,
+        "rank_diff_type": 1
     },
     {
-        "hashtag_id": "qFlq7U",
-        "hashtag_name": "\u0430\u043f\u0432\u043e\u0443\u0442\u0440\u0435\u0434\u0434\u0438\u0442",
-        "publish_cnt": 11000,
+        "hashtag_id": "KjRf2A",
+        "hashtag_name": "champs",
+        "publish_cnt": 3000,
         "rank": 85,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Nayhqe",
-        "hashtag_name": "icecoldtouch",
-        "publish_cnt": 15000,
+        "hashtag_id": "HsSdod",
+        "hashtag_name": "flyeaglesfly\ud83e\udd85",
+        "publish_cnt": 3000,
         "rank": 86,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Ur4cLX",
-        "hashtag_name": "playstation4",
-        "publish_cnt": 4000,
+        "hashtag_id": "gtopqD",
+        "hashtag_name": "petty",
+        "publish_cnt": 3000,
         "rank": 87,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "lF5lJ8",
-        "hashtag_name": "superbowl2025",
-        "publish_cnt": 5000,
+        "hashtag_id": "Z0mt3A",
+        "hashtag_name": "lix",
+        "publish_cnt": 3000,
         "rank": 88,
-        "rank_diff": 44,
-        "rank_diff_type": 1
+        "rank_diff": 0,
+        "rank_diff_type": 4
     },
     {
-        "hashtag_id": "0W9BQr",
-        "hashtag_name": "fashionklossette",
-        "publish_cnt": 7000,
+        "hashtag_id": "gS9TIc",
+        "hashtag_name": "birdgang",
+        "publish_cnt": 2000,
         "rank": 89,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "klacsd",
-        "hashtag_name": "evilsantaescape",
-        "publish_cnt": 6000,
+        "hashtag_id": "YTxgCw",
+        "hashtag_name": "eagleswin",
+        "publish_cnt": 1000,
         "rank": 90,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "TZRwhR",
-        "hashtag_name": "camilla",
-        "publish_cnt": 3000,
+        "hashtag_id": "G7wKTc",
+        "hashtag_name": "compton",
+        "publish_cnt": 2000,
         "rank": 91,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "8lG3z7",
-        "hashtag_name": "fix",
-        "publish_cnt": 5000,
+        "hashtag_id": "I27WTK",
+        "hashtag_name": "devontasmith",
+        "publish_cnt": 1000,
         "rank": 92,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Hgoaq4",
-        "hashtag_name": "roguelineage",
-        "publish_cnt": 7000,
+        "hashtag_id": "7u6gqT",
+        "hashtag_name": "anggayunanda",
+        "publish_cnt": 5000,
         "rank": 93,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "Bg56L7",
-        "hashtag_name": "bayofreckonong",
-        "publish_cnt": 5000,
+        "hashtag_id": "6r2NEB",
+        "hashtag_name": "unclesam",
+        "publish_cnt": 1000,
         "rank": 94,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "pUjwbk",
-        "hashtag_name": "serverproblems",
-        "publish_cnt": 3000,
+        "hashtag_id": "NhDd9N",
+        "hashtag_name": "sheninacinnamon",
+        "publish_cnt": 5000,
         "rank": 95,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "15zMMU",
-        "hashtag_name": "\u0e27\u0e32\u0e40\u0e25\u0e19\u0e44\u0e17\u0e19\u0e4c",
-        "publish_cnt": 56000,
+        "hashtag_id": "EUXS1P",
+        "hashtag_name": "aminor",
+        "publish_cnt": 1000,
         "rank": 96,
-        "rank_diff": 54,
-        "rank_diff_type": 1
-    },
-    {
-        "hashtag_id": "r77pcq",
-        "hashtag_name": "superbowlliv",
-        "publish_cnt": 4000,
-        "rank": 97,
-        "rank_diff": 50,
-        "rank_diff_type": 1
-    },
-    {
-        "hashtag_id": "6qZLQv",
-        "hashtag_name": "halftimeshow",
-        "publish_cnt": 3000,
-        "rank": 98,
-        "rank_diff": 42,
-        "rank_diff_type": 3
-    },
-    {
-        "hashtag_id": "L3l9NA",
-        "hashtag_name": "kunigami",
-        "publish_cnt": 3000,
-        "rank": 99,
         "rank_diff": 0,
         "rank_diff_type": 4
     },
     {
-        "hashtag_id": "jUgYy8",
-        "hashtag_name": "seanstrickland",
-        "publish_cnt": 4000,
+        "hashtag_id": "1efGKL",
+        "hashtag_name": "chiefsfootball",
+        "publish_cnt": 2000,
+        "rank": 97,
+        "rank_diff": 0,
+        "rank_diff_type": 4
+    },
+    {
+        "hashtag_id": "MN3Ez8",
+        "hashtag_name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3",
+        "publish_cnt": 18000,
+        "rank": 98,
+        "rank_diff": 12,
+        "rank_diff_type": 3
+    },
+    {
+        "hashtag_id": "Bn0K8T",
+        "hashtag_name": "14february",
+        "publish_cnt": 32000,
+        "rank": 99,
+        "rank_diff": 71,
+        "rank_diff_type": 1
+    },
+    {
+        "hashtag_id": "l3J1Hl",
+        "hashtag_name": "lunes",
+        "publish_cnt": 17000,
         "rank": 100,
         "rank_diff": 0,
         "rank_diff_type": 4
